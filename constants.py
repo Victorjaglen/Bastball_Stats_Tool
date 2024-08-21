@@ -1,5 +1,3 @@
-import app
-
 TEAMS = [
     'Panthers',
     'Bandits',
